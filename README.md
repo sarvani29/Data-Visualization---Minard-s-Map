@@ -1,4 +1,4 @@
-# Data-Visualization---Minard-s-Map
+# DataVisualization_MinardMap
 Minard’s map has been reconstructed using Altair showing the following:
 1.	Napoleon and his army’s march trail
 2.	The cities crossed have been marked on the trail
